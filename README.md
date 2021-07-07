@@ -1,1 +1,1 @@
-# Natural-Images-Classifer
+# Natural
