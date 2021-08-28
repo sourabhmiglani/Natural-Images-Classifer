@@ -1,1 +1,1 @@
-# Natural
+Simply it is an Image Classifier but it is not that simple.In this Project We have made a hybrid Image Classifier by merging Convolutional Neural Network and Support Vector Machines.We were able to get an increment of 3 Percent increase in accuracy
